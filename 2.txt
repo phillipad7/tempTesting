@@ -1,0 +1,4 @@
+text 2
+text 2 remains in branch 1
+will not be merged to master
+
